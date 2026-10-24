@@ -1,0 +1,7 @@
+*.exe
+*.out
+compile_error.txt
+compiler_log.txt
+error.txt
+.vscode/
+.cph/
